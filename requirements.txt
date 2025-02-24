@@ -1,4 +1,2 @@
 google-generativeai
-pandas
-numpy
-openpyxl
+PyPDF2
